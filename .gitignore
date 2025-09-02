@@ -1,0 +1,15 @@
+*.o
+*.exe
+*.out
+*.obj
+
+/build/
+bin/
+debug/
+release/
+
+.DS_Store
+Thummbs.db
+
+.vscode/
+*.code-workspace
